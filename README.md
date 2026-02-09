@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I enjoy breaking down complex systems into simple, reliable components and optimizing them step by step.**
 
-- 👨‍💻 All of my projects are available at **[souvikbasak.dev](https://souvikbasak.vercel.app)**
+- 👨‍💻 All of my projects are available at **[souvikbasak.in](https://souvikbasak.in)**
 
 - 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1J0pnzRJSwvzugNNYZBaS5Z7rzPxucNNK/view?usp=sharing)**
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik-basak&" alt="souvik-basak" /></p>
